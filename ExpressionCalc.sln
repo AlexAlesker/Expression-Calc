@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionCalc", "Expressio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionCalcTests", "ExpressionCalcTests\ExpressionCalcTests.csproj", "{8A4CE653-9DD1-44A3-9CCB-3B5891803517}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionCalcCons", "ExpressionCalcCons\ExpressionCalcCons.csproj", "{B0FBAEB9-F185-409C-ADBA-8AB29606937D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8A4CE653-9DD1-44A3-9CCB-3B5891803517}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A4CE653-9DD1-44A3-9CCB-3B5891803517}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A4CE653-9DD1-44A3-9CCB-3B5891803517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FBAEB9-F185-409C-ADBA-8AB29606937D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FBAEB9-F185-409C-ADBA-8AB29606937D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FBAEB9-F185-409C-ADBA-8AB29606937D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FBAEB9-F185-409C-ADBA-8AB29606937D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
