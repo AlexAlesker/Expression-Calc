@@ -11,7 +11,6 @@ internal class ExpressionParserTestCase : ExpressionBaseTestCase {
         Assert.Throws<ArgumentException>(() =>  _parser.GetLexemes());
     }
 
-
     [Test]
     public void TestLexemeParserInt() {
         var lexemes = GetLexemes("123");

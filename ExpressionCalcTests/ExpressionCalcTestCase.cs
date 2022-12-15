@@ -4,7 +4,6 @@ namespace ExpressionCalc {
 
 [TestFixture]
 internal class ExpressionCalcTestCase {
-    // private string _expression = "3 + 4.1 * .2 / (1 - 5)^2";
 
     [Test]
     public void TestExpressionCalc1() {
